@@ -55,12 +55,12 @@ body {
 }
 
 .navBar img, svg {
-    width: 25px;
+    width: 300px;
 
     /* WARNING: If this value is modified, be sure to update the height attribute for 
      *          ".navBar button" and also ".navBar"
      */
-    height: 30px;
+    height: 200px;
 }
 
 .navBar button {
