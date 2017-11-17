@@ -18,12 +18,12 @@ body {
 
 .logo {
     position: fixed;
-    top: 300px;
-    left: 200px;
+    top: 15px;
+    left: 10px;
 }
 
 .logo img {
-    height: 5vmin;
+    height: 50%;
 }
 
 .navCenterer {
