@@ -1,5 +1,5 @@
 body {
-    background-color: #383838;
+    background-color: #efd0d0;
     overflow: hidden;
     position: fixed;
     margin: 0;
@@ -50,7 +50,7 @@ body {
     height: 35px;
 
     border-radius: 5px;
-    background-color: #f4d2d2;
+    background-color: #202020;
     opacity: 0.8;
 }
 
